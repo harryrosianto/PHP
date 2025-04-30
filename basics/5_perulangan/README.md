@@ -59,7 +59,7 @@ Dari diagram di atas kita bisa menulis kode contoh sebagai berikut:
 <?php
 
 // Contoh 1. For secara umum
-for ($i = 1; $i <= 5; $i++;){
+for ($i = 1; $i <= 5; $i++){
     echo $i;
 }
 
